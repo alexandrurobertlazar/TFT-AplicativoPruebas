@@ -1,0 +1,16 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "https://tftservice20220201172317.azurewebsites.net/Service1.svc"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, TFTService"
+    ],
+    "targetFramework": "net5.0",
+    "typeReuseMode": "All"
+  }
+}
