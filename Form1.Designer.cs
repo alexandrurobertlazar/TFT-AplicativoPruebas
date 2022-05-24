@@ -109,7 +109,7 @@ namespace TestsTFTForms
             this.Controls.Add(this.folderTextBox);
             this.Controls.Add(this.testNumbersButton);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Programa de pruebas - Conversor";
             this.ResumeLayout(false);
             this.PerformLayout();
 
